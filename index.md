@@ -1,7 +1,7 @@
 Repository Created
 ---
 tagline: Website with GitHub Pages
-description: Simple website with GitHub Pages
+description: --
 layout: page
 title: --
 ---
