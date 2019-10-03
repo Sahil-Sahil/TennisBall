@@ -1,6 +1,5 @@
 Repository Created
 ---
-tagline: TennisBall Blog
 description: --
 layout: page
 title: --
