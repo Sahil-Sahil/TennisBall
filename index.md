@@ -1,7 +1,6 @@
 Repository Created
 ---
-description: --
-layout: page
+
 title: --
 ---
 
