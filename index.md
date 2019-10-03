@@ -7,6 +7,10 @@ TennisBall Blog.
 -------------
 ### September 26, 2019
 Budget for the [Project](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/Budget%20Due(Sahil).pdf).
+![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/pi.jpg).
+![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/powercontrol.jpg).
+![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/powercontrol.jpg).
+
 
 ### September 20, 2017
 
