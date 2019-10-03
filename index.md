@@ -13,7 +13,6 @@ Budget for the Project(https://github.com/Sahil-Sahil/TennisBall/blob/master/Doc
 ### September 20, 2017
 
 Project Schedule Created [project schedule](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/Ghantchart.pdf).  
-![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
 
 ### September 13, 2017
 
