@@ -1,7 +1,6 @@
 Repository Created
 ---
 
-title: --
 ---
 
 TennisBall Blog.
