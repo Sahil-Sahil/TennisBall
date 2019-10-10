@@ -9,9 +9,9 @@ TennisBall Blog.
 Budget for the [Project](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/Budget%20Due(Sahil).pdf).
 
 Proof of Budget
-[Pi](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/pi.jpg).
-[Power Control kit](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/powercontrol.jpg).
-[Solenoid](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/solenoid.jpg).
+[Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/pi.jpg).
+[Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/powercontrol.jpg).
+[Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/solenoid.jpg).
 
 
 ### September 20, 2017
