@@ -10,7 +10,7 @@ Budget for the [Project](https://github.com/Sahil-Sahil/TennisBall/blob/master/D
 
 Proof of Budget
 ![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/pi.jpg).
-![Image](https://raw.githubusercontent.com/Sahil-Sahil/TennisBall/master/Images/powercontrol.jpg).
+![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/powercontrol.jpg).
 ![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/solenoid.jpg).
 
 
