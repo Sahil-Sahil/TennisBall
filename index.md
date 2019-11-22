@@ -6,22 +6,27 @@ Repository Created
 TennisBall Blog.
 -------------
 
-### November 15,2019
-[3-d Print Enclosure base .stl file](https://github.com/Warris-Sohi/SmartTennisBallMachine/blob/master/Mechanical/Pi%20Enclosure%20Base.stl)
-[3-d Print Enclosure lid .stl file](https://github.com/Warris-Sohi/SmartTennisBallMachine/blob/master/Mechanical/Pi%20Enclosure%20Lid.stl)
+### November 20, 2019
+#### Update on PCB
+My Power-tool kit to control the power got short out and now i have to re-order it.
 
+### November 15,2019
+[3-d Print Enclosure base .cdr file](https://github.com/Sahil-Sahil/TennisBall/blob/master/Mechanical-3D%2C%20Printing%20Files/Enclosur.cdr)
 
 ### October 30, 2019
 I have Written the [Program](https://github.com/Sahil-Sahil/TennisBall/blob/master/Firmware-Sensor%2C%20Effector%20Intertface%20Code/solenoidP.py) in python to run solenoid and its working
-Connection with raspberry pi and pcb are done and they are Working and my solenoid is working.
+Connection with raspberry pi and pcb are done and they are also  Working and my solenoid is Running.
 
 ### October 10, 2019
 #### Fritzing File
 This is the link to my [Fritzing File](Electronics-PCB/STennisBall.fzz)
+
 #### My Breadboard Design
 ![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
+
 #### My Circuit Schematics
 ![Circuit Schematics](https://github.com/Sahil-Sahil/TennisBall/blob/master/Electronics-PCB/STennisBall_schem.jpg)
+
 #### My PCB design
 ![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Electronics-PCB/STennisBall_pcb%20(1).jpg)
 
