@@ -28,10 +28,10 @@ This is the link to my [Fritzing File](Electronics-PCB/STennisBall.fzz)
 ![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
 
 #### My Circuit Schematics
-![Circuit Schematics](https://github.com/Sahil-Sahil/TennisBall/blob/master/Electronics-PCB/STennisBall_schem.jpg)
+![Circuit Schematics](Electronics-PCB/STennisBall_schem.jpg)
 
 #### My PCB design
-![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Electronics-PCB/STennisBall_pcb%20(1).jpg)
+![PCB Design](Electronics-PCB/STennisBall_pcb (1).jpg)
 
 
 ### October 05, 2019
