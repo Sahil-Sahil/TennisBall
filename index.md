@@ -5,10 +5,12 @@ Repository Created
 
 TennisBall Blog.
 -------------
+### November 20, 2019
+#### [Presentation]
 
 ### November 20, 2019
 #### Update on PCB
-My Power-tool kit to control the power got short out and now i have to re-order it.
+My Power-tool kit to control the power got short out and now i have to re-order it. I received it on 26 November.
 
 ### November 15,2019
 [3-d Print Enclosure base .cdr file](https://github.com/Sahil-Sahil/TennisBall/blob/master/Mechanical-3D%2C%20Printing%20Files/Enclosur.cdr)
