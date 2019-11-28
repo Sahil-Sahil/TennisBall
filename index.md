@@ -42,7 +42,7 @@ My motors driver has arrived.
 Budget for the [Project](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/Budget%20Due(Sahil).pdf).
 
 Proof of Budget
-![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/pi.jpg).
+![Image](x-github-client://openRepo/https://github.com/Sahil-Sahil/TennisBall?branch=master&filepath=Images%2Fsolenoid.jpg).
 ![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/powercontrol.jpg).
 ![Image](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/solenoid.jpg).
 
