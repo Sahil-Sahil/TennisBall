@@ -28,7 +28,7 @@ This is the link to my [Fritzing File](Electronics-PCB/STennisBall.fzz)
 ![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
 
 #### My Circuit Schematics
-![Circuit Schematics](Electronics-PCB/STennisBall_schem.jpg)
+![Circuit Schematics](https://github.com/Sahil-Sahil/TennisBall/raw/master/Electronics-PCB/STennisBall_schem.jpg)
 
 #### My PCB design
 ![PCB Design](Electronics-PCB/STennisBall_pcb (1).jpg)
