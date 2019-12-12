@@ -125,3 +125,5 @@ Here is the final product a workig solenoid which will act as valve in PinPong b
 I'm unable to combine every thing because it will take another day but my project is due on 21/12/2019
 ![Final Piece](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1428%20(1).jpg?raw=true)
 
+Without solenoid Connected
+![Final Piece](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1427%20(1).jpg?raw=true)
