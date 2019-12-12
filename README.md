@@ -1,8 +1,9 @@
+## Humber Institute of Technology and Advanced Learning
 # Solenoid (PingPong Machine)
 ## Created by: Sahil Sahil
 -------------
-## Humber Institute of Technology and Advanced Learning
-## CENG 317 Instructor: Kristian Medri
+
+![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
 
 
 ## Table of Contents
