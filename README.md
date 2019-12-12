@@ -32,8 +32,6 @@ Solenoid is the generic term for a coil of wire used as an electromagnet. It als
 
 * [Testing](#testing)
 
-* [Production-Testing](#Production-testing)
-
 * [Final Product](#final-product)
 
 #
