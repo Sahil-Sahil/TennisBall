@@ -77,6 +77,6 @@ Wiring:
 
 ### Circuit
 This wiring diagram could be helpful to make the connections on breadboard
-![fritz_bb](Images/STennisBall2_bb (1).jpg)
+![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
 
 
