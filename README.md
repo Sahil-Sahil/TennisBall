@@ -1,8 +1,11 @@
-Repository Created
+# Solenoid (PingPong Machine)
 ---
 
 ---
 
-TennisBall Blog.
+## Created by: Sahil Sahil
 -------------
- 
+## Humber Institute of Technology and Advanced Learning
+## CENG 317 Instructor: Kristian Medri
+
+
