@@ -80,7 +80,7 @@ Wiring:
 ### Circuit
 This wiring diagram could be helpful to make the connections on breadboard
 
-![Breadboard Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/STennisBall2_bb%20(1).jpg)
+![Breadboard Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/STennisBall2_bb%20(2).jpg)
 
 #
 
