@@ -79,4 +79,10 @@ Wiring:
 This wiring diagram could be helpful to make the connections on breadboard
 ![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
 
+## Assembly
+Now you have got every part we are goung o connect all the parts on breadboard so we can design a PCB later. to connect all the parts on breadboard you can see the fritizzin image above or downone. 
+![Breadboard Design](Images/IMG_1338 (1).jpg)
+
+Make sure all the connection are right connected to ground and Please make sure to connect a multimeter accros the solenoid because it throws huge amount of current when it turns on and off and it cna damage your whole circuit becaus eof that  i had to order whole bunch of transistors again, and i short-out my raspberry pi GPIO pin 4.
+
 
