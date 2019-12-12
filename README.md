@@ -68,7 +68,7 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 
 ## Hardware Testing
 
-After software installation, i made the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi.
+After software installation, i made the connections using jumper wires from sensor to breadboard and breadboard to raspberry pi. which you can see in Circuit breadboard design.
 
 Wiring:
 ---
