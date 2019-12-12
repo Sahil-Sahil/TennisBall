@@ -18,7 +18,7 @@
 
 * [Assembling ](#assembling)
 
-* [PCB & Soldering ](#PCB & Soldering)
+* [PCB & Soldering ](#PCB-&-Soldering)
  
 * [Enclosure](#Enclosure)
 
@@ -90,6 +90,13 @@ Make sure all the connection are right connected to ground and Please make sure 
 ## PCB & Soldering
 If your breadboard circuit works we are goin to design PCB for designing PCB you can use [Fritzzing](https://fritzing.org/download/)
 and down is the image how its going to look alike.
+
 ![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/STennisBall2_pcb.jpg?raw=true)
+
+and when  your PCB iss ready we are going to solder all the components on it and its going to be looklike down Image.
+
+![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1424%20(1).jpg?raw=true)
+![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1425%20(1).jpg?raw=true)
+
 
 
