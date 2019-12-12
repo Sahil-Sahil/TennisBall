@@ -115,6 +115,11 @@ My design for enclosur is [here](https://github.com/Sahil-Sahil/TennisBall/blob/
 
 ## Testing
 Now we have every thing we are going to run it for the we going to connect it to raspberry pi and run the Phyton [Code](https://github.com/Sahil-Sahil/TennisBall/blob/master/Firmware-Sensor%2C%20Effector%20Intertface%20Code/solenoidP.py)
+![testing](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/Annotation%202019-12-12%20135026.jpg?raw=true)
 
+#
+
+## Final-Product
+Here isthe final product av workig solenoid which will act as valve in PinPong ball project to control the number of balls.
 
 
