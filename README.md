@@ -63,7 +63,7 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 3. Insert SD card in raspberry pi 
 4. Download [Xming](https://sourceforge.net/projects/xming/) software into your PC and run
 5. connect your raspberry pi to Laptop or Pc by ethernet cable or connector
-6. Open putty Typing "raspberrypi.mshome.net" or the "Ip address" of pi which you can get by running advance ip scanner.
+6. Open [putty](https://www.putty.org/) Typing "raspberrypi.mshome.net" or the "Ip address" of pi which you can get by running [Advance ip scanner](https://www.advanced-ip-scanner.com/).
 4. Add when you open the terminal you see your pi running.
 
 #
