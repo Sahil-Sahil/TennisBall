@@ -14,11 +14,11 @@
 
 * [Setting up Raspberry Pi](#setting-Up-Raspberry-Pi)
 
-* [Hardware Testing](#Hardware Testing)
+* [Hardware Testing](#Hardware-Testing)
 
 * [Assembling ](#Assembly)
 
-* [PCB & Soldering ](#PCB-&-Soldering)
+* [PCB & Soldering ](#PCB-and-Soldering)
  
 * [Enclosure](#Enclosure)
 
@@ -87,7 +87,7 @@ Now you have got every part we are goung o connect all the parts on breadboard s
 
 Make sure all the connection are right connected to ground and Please make sure to connect a multimeter accros the solenoid because it throws huge amount of current when it turns on and off and it cna damage your whole circuit becaus eof that  i had to order whole bunch of transistors again, and i short-out my raspberry pi GPIO pin 4.
 
-## PCB & Soldering
+## PCB and Soldering
 If your breadboard circuit works we are goin to design PCB for designing PCB you can use [Fritzzing](https://fritzing.org/download/)
 and down is the image how its going to look alike.
 
@@ -97,6 +97,16 @@ and when  your PCB iss ready we are going to solder all the components on it and
 
 ![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1424%20(1).jpg?raw=true)
 ![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1425%20(1).jpg?raw=true)
+
+If your PCB is ready then we are goin to desig enclosur for our project
+
+## Enclosur
+For designing the case you can use CoralDrwa or another free software that you can use is InkSpace its easy to use and free
+My design for enclosur is here
+![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1426%20(1).jpg?raw=true)
+
+
+
 
 
 
