@@ -1,9 +1,9 @@
-Ping-Pong
+Solenoid/Ping-Pong
 ---
 
 ---
 
-TennisBall Blog.
+Solenoid/TennisBall Blog.
 -------------
 ### December 11, 2019
 ### Update on PCB and Project
