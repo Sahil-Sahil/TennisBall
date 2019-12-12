@@ -5,9 +5,13 @@
 
 ![Fianl](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1428%20(1).jpg?raw=true)
 
+#
+
 ## Introduction
 
 Solenoid is the generic term for a coil of wire used as an electromagnet. It also refers to any device that converts electrical energy to mechanical energy using a solenoid. The device creates a magnetic field from electric current and uses the magnetic field to create linear motion.
+
+#
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -45,6 +49,8 @@ The Parts Required for the project -:
 * [Diode 1N4001-TP](https://www.amazon.ca/gp/product/B008UG13UW/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) - CAD$10
 * [Resistor 2.2k/300 ohm](https://www.amazon.ca/ELEGOO-Values-Resistor-Assortment-Ohm-1M/dp/B071HJWJZB/ref=sr_1_8?crid=5U1W9IPQ0MI2&keywords=resistor+kit&qid=1576171176&s=hi&sprefix=resistor%2Ctools%2C180&sr=1-8) - Price depends on You
 * [Circuit Board](https://github.com/Sahil-Sahil/TennisBall/blob/master/Electronics-PCB/Sahil_SmartPingpongBallMachineV4.zip) - These are Files for PCB(Gerber files) and Circuit send them for printing while you ordering the parts for project
+* [CAse Design Files](https://github.com/Sahil-Sahil/TennisBall/blob/master/Mechanical-3D%2C%20Printing%20Files/Enclosur.cdr) - These are Files for Case design send them for printing while you ordering the parts for project. You may have to make some some changes as your project needs.
+
 #
 
 ## Time Commitment
