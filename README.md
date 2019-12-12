@@ -14,9 +14,9 @@
 
 * [Setting up Raspberry Pi](#setting-Up-Raspberry-Pi)
 
-* [Hardware Testing](#hardware-Testing)
+* [Hardware Testing](#Hardware Testing)
 
-* [Assembling ](#assembling)
+* [Assembling ](#Assembly)
 
 * [PCB & Soldering ](#PCB-&-Soldering)
  
