@@ -77,7 +77,7 @@ After software installation, i made the connections using jumper wires from sens
 Wiring:
 ---
 - Raspberry Pi PIN 3 to as Ground
-- Raspberry Pi GPIO 11 to solenoid
+- Raspberry Pi GPIO 11(6) to solenoid
 
 ### Circuit
 This wiring diagram could be helpful to make the connections on breadboard
