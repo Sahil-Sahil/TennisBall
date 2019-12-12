@@ -31,7 +31,7 @@ Connection with raspberry pi and pcb are done and they are also  Working and my 
 This is the link to my [Fritzing File](Electronics-PCB/STennisBall.fzz)
 
 #### My Breadboard Design
-![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
+![Breadboard Design](Images/STennisBall2_bb (1).jpg)
 
 #### My Circuit Schematics
 ![Circuit Schematics](https://github.com/Sahil-Sahil/TennisBall/raw/master/Electronics-PCB/STennisBall_schem.jpg)
