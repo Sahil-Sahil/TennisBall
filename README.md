@@ -18,8 +18,8 @@
 
 * [Assembling ](#assembling)
 
-* [Soldering ](#Soldering)
-
+* [PCB & Soldering ](#PCB & Soldering)
+ 
 * [Enclosure](#Enclosure)
 
 * [Testing](#testing)
@@ -77,12 +77,19 @@ Wiring:
 
 ### Circuit
 This wiring diagram could be helpful to make the connections on breadboard
+
 ![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
 
 ## Assembly
 Now you have got every part we are goung o connect all the parts on breadboard so we can design a PCB later. to connect all the parts on breadboard you can see the fritizzin image above or downone. 
+
 ![Breadboard Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1338%20(1).jpg?raw=true)
 
 Make sure all the connection are right connected to ground and Please make sure to connect a multimeter accros the solenoid because it throws huge amount of current when it turns on and off and it cna damage your whole circuit becaus eof that  i had to order whole bunch of transistors again, and i short-out my raspberry pi GPIO pin 4.
+
+## PCB & Soldering
+If your breadboard circuit works we are goin to design PCB for designing PCB you can use [Fritzzing](https://fritzing.org/download/)
+and down is the image how its going to look alike.
+![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/STennisBall2_pcb.jpg?raw=true)
 
 
