@@ -3,7 +3,7 @@
 ## Created by: Sahil Sahil
 -------------
 
-![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
+![Fianl](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1428%20(1).jpg?raw=true)
 
 
 ## Table of Contents
@@ -121,6 +121,7 @@ Now we have every thing we are going to run it for the we going to connect it to
 #
 
 ## Final-Product
-Here isthe final product av workig solenoid which will act as valve in PinPong ball project to control the number of balls.
-
+Here is the final product a workig solenoid which will act as valve in PinPong ball project to control the number of balls.
+I'm unable to combine every thing because it will take another day but my project is due on 21/12/2019
+![Final Piece](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1428%20(1).jpg?raw=true)
 
