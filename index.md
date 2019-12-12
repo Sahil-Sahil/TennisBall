@@ -10,6 +10,7 @@ Solenoid/TennisBall Blog.
 ### Final Update
 My project is completed and approved by teacher.
 
+![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1428%20(1).jpg?raw=true)
 ![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1427%20(1).jpg?raw=true)
 Without solenoid connected
 
@@ -39,7 +40,7 @@ Connection with raspberry pi and pcb are done and they are also  Working and my 
 This is the link to my [Fritzing File](Electronics-PCB/STennisBall.fzz)
 
 #### My Breadboard Design
-![Breadboard Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/STennisBall2_bb%20(1).jpg?raw=true)
+![Breadboard Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/STennisBall2_bb%20(2).jpg)
 
 #### My Circuit Schematics
 ![Circuit Schematics](https://github.com/Sahil-Sahil/TennisBall/raw/master/Electronics-PCB/STennisBall_schem.jpg)
