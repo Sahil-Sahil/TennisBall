@@ -5,6 +5,12 @@ Solenoid/Ping-Pong
 
 Solenoid/TennisBall Blog.
 -------------
+
+### December 12, 2019
+### Final Update
+My project is completed and approved by teacher.
+![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1427%20(1).jpg?raw=true)
+
 ### December 11, 2019
 ### Update on PCB and Project
 PCb is working now and i'm able to handle the all the current which solenoid was throwing before.
@@ -31,7 +37,7 @@ Connection with raspberry pi and pcb are done and they are also  Working and my 
 This is the link to my [Fritzing File](Electronics-PCB/STennisBall.fzz)
 
 #### My Breadboard Design
-![Breadboard Design](Images/STennisBall2_bb (1).jpg)
+![Breadboard Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/STennisBall2_bb%20(1).jpg?raw=true)
 
 #### My Circuit Schematics
 ![Circuit Schematics](https://github.com/Sahil-Sahil/TennisBall/raw/master/Electronics-PCB/STennisBall_schem.jpg)
