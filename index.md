@@ -9,8 +9,9 @@ Solenoid/TennisBall Blog.
 ### December 12, 2019
 ### Final Update
 My project is completed and approved by teacher.
-Withou solenoid connected
+
 ![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1427%20(1).jpg?raw=true)
+Without solenoid connected
 
 ### December 11, 2019
 ### Update on PCB and Project
