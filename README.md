@@ -95,7 +95,8 @@ and down is the image how its going to look alike.
 
 and when  your PCB iss ready we are going to solder all the components on it and its going to be looklike down Image.
 
-![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1424%20(1).jpg?raw=true)![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1425%20(1).jpg?raw=true)
+![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1424%20(1).jpg?raw=true)
+![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1425%20(1).jpg?raw=true)
 
 
 
