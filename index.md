@@ -5,6 +5,10 @@ Ping-Pong
 
 TennisBall Blog.
 -------------
+### December 11, 2019
+PCb is working now and i'm able to handle the all the current which solenoid was throwing before.
+![PCB Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1424%20(1).jpg?raw=true)
+
 ### November 28, 2019
 #### [Presentation](https://github.com/Sahil-Sahil/TennisBall/blob/master/Documentation/Ping%20Pong%20Machine.pptx)
 Presentation for the Project
