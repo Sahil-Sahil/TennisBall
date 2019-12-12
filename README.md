@@ -80,12 +80,16 @@ This wiring diagram could be helpful to make the connections on breadboard
 
 ![Breadboard Design](Electronics-PCB/STennisBall_bb.jpg)
 
+#
+
 ## Assembly
 Now you have got every part we are goung o connect all the parts on breadboard so we can design a PCB later. to connect all the parts on breadboard you can see the fritizzin image above or downone. 
 
 ![Breadboard Design](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1338%20(1).jpg?raw=true)
 
 Make sure all the connection are right connected to ground and Please make sure to connect a multimeter accros the solenoid because it throws huge amount of current when it turns on and off and it cna damage your whole circuit becaus eof that  i had to order whole bunch of transistors again, and i short-out my raspberry pi GPIO pin 4.
+
+#
 
 ## PCB and Soldering
 If your breadboard circuit works we are goin to design PCB for designing PCB you can use [Fritzzing](https://fritzing.org/download/)
@@ -100,13 +104,17 @@ and when  your PCB iss ready we are going to solder all the components on it and
 
 If your PCB is ready then we are goin to desig enclosur for our project
 
+#
+
 ## Enclosur
 For designing the case you can use CoralDrwa or another free software that you can use is InkSpace its easy to use and free
-My design for enclosur is here
+My design for enclosur is [here](https://github.com/Sahil-Sahil/TennisBall/blob/master/Mechanical-3D%2C%20Printing%20Files/Enclosur.cdr)
 ![PCB Soldering](https://github.com/Sahil-Sahil/TennisBall/blob/master/Images/IMG_1426%20(1).jpg?raw=true)
 
+#
 
-
+## Testing
+Now we have every thing we are going to run it for the we going to connect it to raspberry pi and run the Phyton [Code](https://github.com/Sahil-Sahil/TennisBall/blob/master/Firmware-Sensor%2C%20Effector%20Intertface%20Code/solenoidP.py)
 
 
 
